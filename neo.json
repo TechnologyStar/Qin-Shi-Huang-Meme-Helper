@@ -1,0 +1,26 @@
+const customGifs = [
+        {
+            name: 'cat-wave',
+            url: 'https://file.woodo.cn/upload/image/201910/25/c7eb21a4-7693-4836-b23a-5ab3c9e1813d.gif',
+            alt: '招手猫',
+            keywords: ['猫', '招手', 'cat', 'wave', 'hello', '你好', '嗨']
+        },
+        {
+            name: 'hello-cat',
+            url: 'https://c-ssl.duitang.com/uploads/item/202001/11/20200111042746_kmmjw.gif',
+            alt: '你好猫',
+            keywords: ['猫', '你好', 'cat', 'hello', 'hi', '问候', '打招呼']
+        },
+        {
+            name: 'thumbs-up',
+            url: 'https://media.giphy.com/media/111ebonMs90YLu/giphy.gif',
+            alt: '点赞',
+            keywords: ['点赞', '赞', '好', 'thumbs', 'up', 'good', 'nice', '棒']
+        },
+        {
+            name: 'happy-dance',
+            url: 'https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif',
+            alt: '开心舞蹈',
+            keywords: ['开心', '舞蹈', '高兴', 'happy', 'dance', 'excited', 'party']
+        }
+    ];
